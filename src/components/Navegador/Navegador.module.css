@@ -1,0 +1,51 @@
+.menu {
+  background-color: white;
+  width: 100%;
+}
+.brand {
+  margin-left: 130px;
+}
+
+.items {
+  margin-left: 395px;
+}
+
+.logo {
+  width: 40px;
+}
+
+.ativos {
+  color: #0322ee;
+  font-weight: 500;
+  margin-left: 30px;
+  font-size: 18px;
+}
+.ativos:hover {
+  color: #0322ee;
+  font-weight: 500;
+  margin-left: 30px;
+  font-size: 18px;
+}
+.titulo {
+  font-size: 26px;
+  color: #0668cc;
+  font-weight: 500;
+  margin-left: 0px;
+}
+
+.li {
+  margin-left: 30px;
+  color: #2d7dd2;
+  font-size: 18px;
+}
+
+.li:hover {
+  color: #0322ee;
+  font-weight: 500;
+}
+
+.icon {
+  font-size: 30px;
+  color: #2d7dd2;
+  margin-left: 100px;
+}

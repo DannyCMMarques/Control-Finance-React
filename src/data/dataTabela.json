@@ -1,0 +1,44 @@
+[
+  {
+    "descricao": "Orlando Rodrigues",
+    "metodo": "Conta bancária",
+    "data": "01/04/2024",
+    "valor": 750.0
+  },
+  {
+    "descricao": "Netflix",
+    "metodo": "Cartão de crédito",
+    "data": "29/03/2024",
+    "valor": -9.9
+  },
+  {
+    "descricao": "Spotify",
+    "metodo": "Cartão de crédito",
+    "data": "29/03/2024",
+    "valor": -19.9
+  },
+  {
+    "descricao": "Carl Andrew",
+    "metodo": "Conta bancária",
+    "data": "27/03/2024",
+    "valor": 400.0
+  },
+  {
+    "descricao": "Carrefour Market",
+    "metodo": "Cartão de crédito",
+    "data": "26/03/2024",
+    "valor": -64.33
+  },
+  {
+    "descricao": "Amazon",
+    "metodo": "Cartão de crédito",
+    "data": "24/03/2024",
+    "valor": -147.9
+  },
+  {
+    "descricao": "Shopify",
+    "metodo": "Cartão de crédito",
+    "data": "21/03/2024",
+    "valor": -57.98
+  }
+]

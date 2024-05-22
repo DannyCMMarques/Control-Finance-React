@@ -1,0 +1,78 @@
+.col2 {
+    padding-left: 30px;
+    height: 500px;
+    display: grid;
+    align-items: center;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.col2 h1 {
+    text-align: center;
+    color: var(--black);
+    font-size: 33px;
+    font-weight: normal;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.col2 p {
+    color: var(--black);
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.bloco {
+    border-color: black;
+    border-radius: 10px;
+    margin: auto;
+    padding: auto;
+    align-items: center;
+    width: 850px;
+}
+
+.box {
+    border-color: black;
+
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.col1 {
+    background-image: url(./../../../public/imagens/Login.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    background-position-x: -160px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+
+
+.col2 label {
+    margin-bottom: 10px;
+    text-align: start;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.col2 span {
+    color: #1890ff;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.col2 span:hover {
+    color: #2d7dd2;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 375px) {
+    .col1 {
+        display: none;
+    }
+}
